@@ -1,1 +1,0 @@
-select ${value} as a
