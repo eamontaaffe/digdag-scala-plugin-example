@@ -5,7 +5,6 @@ plugins {
     id 'maven'
 }
 
-name = 'digdag-plugin-example'
 group = 'com.cultureamp.plugin'
 version = '0.1.3'
 
